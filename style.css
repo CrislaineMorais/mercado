@@ -1,0 +1,18 @@
+.rodape{
+  display: flex;
+  flex-direction: column;
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  }
+.rodape--cinza{
+    background-color: darkgrey;
+}
+.rodape__center{
+    text-align: center;
+}
+.label--size{
+  font-size: 40px;
+}
+.label__center{
+  text-align: center;
+}
